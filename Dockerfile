@@ -1,4 +1,4 @@
-FROM 9.11.1-alpine as node-angular-cli
+FROM node:9.11.1-alpine as node-angular-cli
 
 LABEL authors="Loiane Groner"
 
